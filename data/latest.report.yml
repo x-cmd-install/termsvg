@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.11.0"
   latestRelease: "v0.11.0"
   latestPrerelease: ""
-  collectedAt: 2026-09-11T05:57:15Z
+  collectedAt: 2026-09-11T18:52:33Z
 timeline:
   created: 2020-08-28
   lastCommit: 2026-07-15
@@ -84,7 +84,7 @@ total:
   commit: 140
 ---
 path: /home/runner/.x-repo/github.com/MrMarble/termsvg
-collectedAt: 2026-09-11T05:57:16Z
+collectedAt: 2026-09-11T18:52:35Z
 loc:
   Go:
     code: 5475
