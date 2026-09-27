@@ -129,4 +129,3 @@ total:
 ---
 
 ---
-{"id":354707207,"author":{"login":"MrMarble","id":4268580,"node_id":"MDQ6VXNlcjQyNjg1ODA=","gravatar_id":"","type":"User","user_view_type":"public","site_admin":false},"node_id":"RE_kwDOEVfhU84VJGcH","tag_name":"v0.11.0","target_commitish":"main","name":"v0.11.0","draft":false,"immutable":false,"prerelease":false,"created_at":"2026-07-15T20:55:38Z","updated_at":"2026-07-15T21:02:00Z","published_at":"2026-07-15T21:02:00Z","assets":[],"body":"## What's Changed\r\n* Add support for text style by @MrMarble in https://github.com/MrMarble/termsvg/pull/18\r\n\r\n\r\n**Full Changelog**: https://github.com/MrMarble/termsvg/compare/v0.10.0...v0.11.0","mentions_count":1}
