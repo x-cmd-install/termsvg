@@ -2,7 +2,7 @@
 
 [中文版本](./README.cn.md)
 
-Record, share and export your terminal as a animated SVG image.
+Record, share and export your terminal as an animated SVG image. Now with support for GIFs and WEBM!
 
 [![x-cmd/install — termsvg Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/termsvg.svg)](https://x-cmd.com/install/termsvg)
 
@@ -14,15 +14,15 @@ x install termsvg
 
 ## Code insight
 
-Total: **5,747** lines of code across **57** files in the top 5 languages.
+Total: **23,114** lines of code across **147** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 5,475 | 673 | 936 | 37 |
-| Sh | 121 | 17 | 29 | 2 |
-| Yaml | 85 | 1 | 13 | 1 |
+| Go | 22,609 | 1,096 | 2,281 | 131 |
+| Sh | 270 | 25 | 48 | 3 |
+| Yaml | 137 | 1 | 18 | 1 |
 | Json | 55 | 0 | 0 | 11 |
-| Svg | 6 | 0 | 0 | 6 |
+| Html | 31 | 0 | 0 | 1 |
 
 ## Source
 
@@ -31,36 +31,55 @@ Total: **5,747** lines of code across **57** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v0.11.0` (2026-07-15)
-- **Last commit**: 2026-07-15
+- **Latest**: `v0.13.0` (2026-11-09)
+- **Last commit**: 2026-11-09
+- **Assets in release**: 13
 
 ## Popularity
 
-- **Stars**: 393 · **Forks**: 22 · **Open issues**: 13 · **Contributors**: 3
+- **Stars**: 393 · **Forks**: 22 · **Open issues**: 13 · **Contributors**: 4
 
 ## Totals (cumulative)
 
-- **Releases**: 16 · **Merged PRs**: 7 · **Open PRs**: 3 · **Closed issues**: 8 · **Open issues**: 5 · **Commits**: 140
+- **Releases**: 18 · **Merged PRs**: 29 · **Open PRs**: 0 · **Closed issues**: 13 · **Open issues**: 0 · **Commits**: 164
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-09 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-09 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-10 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-05-12 | 1 | 0 | 1 | 0 | 2 | 2 |
-| 360d | 2025-11-13 | 1 | 0 | 3 | 0 | 3 | 36 |
-| last720d | 2024-11-18 | 4 | 5 | 3 | 3 | 3 | 43 |
+| 30d | 2026-10-11 | 2 | 20 | 0 | 0 | 0 | 24 |
+| last60d | 2026-09-11 | 2 | 20 | 0 | 0 | 0 | 24 |
+| 90d | 2026-08-12 | 2 | 20 | 0 | 0 | 0 | 24 |
+| last180d | 2026-05-14 | 3 | 21 | 0 | 2 | 0 | 26 |
+| 360d | 2025-11-15 | 3 | 22 | 0 | 3 | 0 | 60 |
+| last720d | 2024-11-20 | 6 | 27 | 0 | 6 | 0 | 67 |
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [termsvg-0.13.0-checksums.txt](https://github.com/MrMarble/termsvg/releases/download/v0.13.0/termsvg-0.13.0-checksums.txt) | 1.2 KiB | `other` |
+| [termsvg-0.13.0-darwin-amd64.zip](https://github.com/MrMarble/termsvg/releases/download/v0.13.0/termsvg-0.13.0-darwin-amd64.zip) | 3.6 MiB | `native/darwin/x64` |
+| [termsvg-0.13.0-darwin-arm64.zip](https://github.com/MrMarble/termsvg/releases/download/v0.13.0/termsvg-0.13.0-darwin-arm64.zip) | 3.4 MiB | `native/darwin/arm64` |
+| [termsvg-0.13.0-freebsd-386.tar.gz](https://github.com/MrMarble/termsvg/releases/download/v0.13.0/termsvg-0.13.0-freebsd-386.tar.gz) | 3.4 MiB | `native/unknown` |
+| [termsvg-0.13.0-freebsd-amd64.tar.gz](https://github.com/MrMarble/termsvg/releases/download/v0.13.0/termsvg-0.13.0-freebsd-amd64.tar.gz) | 3.5 MiB | `native/linux/x64` |
+| [termsvg-0.13.0-freebsd-armv6.tar.gz](https://github.com/MrMarble/termsvg/releases/download/v0.13.0/termsvg-0.13.0-freebsd-armv6.tar.gz) | 3.4 MiB | `native/linux/arm` |
+| [termsvg-0.13.0-freebsd-armv7.tar.gz](https://github.com/MrMarble/termsvg/releases/download/v0.13.0/termsvg-0.13.0-freebsd-armv7.tar.gz) | 3.4 MiB | `native/linux/arm` |
+| [termsvg-0.13.0-linux-386.tar.gz](https://github.com/MrMarble/termsvg/releases/download/v0.13.0/termsvg-0.13.0-linux-386.tar.gz) | 3.4 MiB | `native/unknown` |
+| [termsvg-0.13.0-linux-amd64.tar.gz](https://github.com/MrMarble/termsvg/releases/download/v0.13.0/termsvg-0.13.0-linux-amd64.tar.gz) | 3.5 MiB | `native/linux/x64` |
+| [termsvg-0.13.0-linux-arm64.tar.gz](https://github.com/MrMarble/termsvg/releases/download/v0.13.0/termsvg-0.13.0-linux-arm64.tar.gz) | 3.3 MiB | `native/linux/arm64` |
+| [termsvg-0.13.0-linux-armv6.tar.gz](https://github.com/MrMarble/termsvg/releases/download/v0.13.0/termsvg-0.13.0-linux-armv6.tar.gz) | 3.4 MiB | `native/linux/arm` |
+| [termsvg-0.13.0-linux-armv7.tar.gz](https://github.com/MrMarble/termsvg/releases/download/v0.13.0/termsvg-0.13.0-linux-armv7.tar.gz) | 3.4 MiB | `native/linux/arm` |
+| [termsvg-0.13.0-windows-amd64.zip](https://github.com/MrMarble/termsvg/releases/download/v0.13.0/termsvg-0.13.0-windows-amd64.zip) | 3.6 MiB | `native/win/x64` |
 
 ## Distribution status
 
-Reported by **7** distros on [repology.org](https://repology.org/project/termsvg). **2** are ✅ on the latest upstream release, **4** are ⚠️ on an older version.
+Reported by **7** distros on [repology.org](https://repology.org/project/termsvg). **1** are ✅ on the latest upstream release, **5** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
-| Homebrew | `0.11.0` | ✅ latest |
-| Nix unstable | `0.11.0` | ✅ latest |
+| Homebrew | `0.12.0` | ✅ latest |
+| Nix unstable | `0.11.0` | ⚠️ outdated |
 
 ## Improve this data
 
@@ -71,4 +90,4 @@ Install metadata for termsvg lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261108.yml` · 2026-11-08T06:59:49Z._
+_Snapshot: `data/card/261110.yml` · 2026-11-10T08:35:07Z._

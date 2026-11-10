@@ -2,7 +2,7 @@
 
 [English version](./README.md)
 
-Record, share and export your terminal as a animated SVG image.
+Record, share and export your terminal as an animated SVG image. Now with support for GIFs and WEBM!
 
 [![x-cmd/install — termsvg Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/termsvg.svg?lang=zh)](https://x-cmd.com/install/termsvg)
 
@@ -14,15 +14,15 @@ x install termsvg
 
 ## 代码洞察
 
-合计: **5,747** 行代码（覆盖前 5 种语言、共 **57** 个文件）。
+合计: **23,114** 行代码（覆盖前 5 种语言、共 **147** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Go | 5,475 | 673 | 936 | 37 |
-| Sh | 121 | 17 | 29 | 2 |
-| Yaml | 85 | 1 | 13 | 1 |
+| Go | 22,609 | 1,096 | 2,281 | 131 |
+| Sh | 270 | 25 | 48 | 3 |
+| Yaml | 137 | 1 | 18 | 1 |
 | Json | 55 | 0 | 0 | 11 |
-| Svg | 6 | 0 | 0 | 6 |
+| Html | 31 | 0 | 0 | 1 |
 
 ## 源代码
 
@@ -31,36 +31,55 @@ x install termsvg
 
 ## 发布
 
-- **最新版本**: `v0.11.0` (2026-07-15)
-- **最近提交**: 2026-07-15
+- **最新版本**: `v0.13.0` (2026-11-09)
+- **最近提交**: 2026-11-09
+- **Release 含资产**: 13 个
 
 ## 流行度
 
-- **Star**: 393 · **Fork**: 22 · **开放 issue**: 13 · **贡献者**: 3
+- **Star**: 393 · **Fork**: 22 · **开放 issue**: 13 · **贡献者**: 4
 
 ## 累计统计
 
-- **发布数**: 16 · **已合并 PR**: 7 · **开放 PR**: 3 · **已关闭 issue**: 8 · **开放 issue**: 5 · **提交数**: 140
+- **发布数**: 18 · **已合并 PR**: 29 · **开放 PR**: 0 · **已关闭 issue**: 13 · **开放 issue**: 0 · **提交数**: 164
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-09 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-09 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-10 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-05-12 | 1 | 0 | 1 | 0 | 2 | 2 |
-| 360d | 2025-11-13 | 1 | 0 | 3 | 0 | 3 | 36 |
-| last720d | 2024-11-18 | 4 | 5 | 3 | 3 | 3 | 43 |
+| 30d | 2026-10-11 | 2 | 20 | 0 | 0 | 0 | 24 |
+| last60d | 2026-09-11 | 2 | 20 | 0 | 0 | 0 | 24 |
+| 90d | 2026-08-12 | 2 | 20 | 0 | 0 | 0 | 24 |
+| last180d | 2026-05-14 | 3 | 21 | 0 | 2 | 0 | 26 |
+| 360d | 2025-11-15 | 3 | 22 | 0 | 3 | 0 | 60 |
+| last720d | 2024-11-20 | 6 | 27 | 0 | 6 | 0 | 67 |
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [termsvg-0.13.0-checksums.txt](https://github.com/MrMarble/termsvg/releases/download/v0.13.0/termsvg-0.13.0-checksums.txt) | 1.2 KiB | `other` |
+| [termsvg-0.13.0-darwin-amd64.zip](https://github.com/MrMarble/termsvg/releases/download/v0.13.0/termsvg-0.13.0-darwin-amd64.zip) | 3.6 MiB | `native/darwin/x64` |
+| [termsvg-0.13.0-darwin-arm64.zip](https://github.com/MrMarble/termsvg/releases/download/v0.13.0/termsvg-0.13.0-darwin-arm64.zip) | 3.4 MiB | `native/darwin/arm64` |
+| [termsvg-0.13.0-freebsd-386.tar.gz](https://github.com/MrMarble/termsvg/releases/download/v0.13.0/termsvg-0.13.0-freebsd-386.tar.gz) | 3.4 MiB | `native/unknown` |
+| [termsvg-0.13.0-freebsd-amd64.tar.gz](https://github.com/MrMarble/termsvg/releases/download/v0.13.0/termsvg-0.13.0-freebsd-amd64.tar.gz) | 3.5 MiB | `native/linux/x64` |
+| [termsvg-0.13.0-freebsd-armv6.tar.gz](https://github.com/MrMarble/termsvg/releases/download/v0.13.0/termsvg-0.13.0-freebsd-armv6.tar.gz) | 3.4 MiB | `native/linux/arm` |
+| [termsvg-0.13.0-freebsd-armv7.tar.gz](https://github.com/MrMarble/termsvg/releases/download/v0.13.0/termsvg-0.13.0-freebsd-armv7.tar.gz) | 3.4 MiB | `native/linux/arm` |
+| [termsvg-0.13.0-linux-386.tar.gz](https://github.com/MrMarble/termsvg/releases/download/v0.13.0/termsvg-0.13.0-linux-386.tar.gz) | 3.4 MiB | `native/unknown` |
+| [termsvg-0.13.0-linux-amd64.tar.gz](https://github.com/MrMarble/termsvg/releases/download/v0.13.0/termsvg-0.13.0-linux-amd64.tar.gz) | 3.5 MiB | `native/linux/x64` |
+| [termsvg-0.13.0-linux-arm64.tar.gz](https://github.com/MrMarble/termsvg/releases/download/v0.13.0/termsvg-0.13.0-linux-arm64.tar.gz) | 3.3 MiB | `native/linux/arm64` |
+| [termsvg-0.13.0-linux-armv6.tar.gz](https://github.com/MrMarble/termsvg/releases/download/v0.13.0/termsvg-0.13.0-linux-armv6.tar.gz) | 3.4 MiB | `native/linux/arm` |
+| [termsvg-0.13.0-linux-armv7.tar.gz](https://github.com/MrMarble/termsvg/releases/download/v0.13.0/termsvg-0.13.0-linux-armv7.tar.gz) | 3.4 MiB | `native/linux/arm` |
+| [termsvg-0.13.0-windows-amd64.zip](https://github.com/MrMarble/termsvg/releases/download/v0.13.0/termsvg-0.13.0-windows-amd64.zip) | 3.6 MiB | `native/win/x64` |
 
 ## 发行版状态
 
-在 [repology.org](https://repology.org/project/termsvg) 上共有 **7** 个发行版报告此项目。**2** 个 ✅ 已是最新上游版本，**4** 个 ⚠️ 使用旧版本。
+在 [repology.org](https://repology.org/project/termsvg) 上共有 **7** 个发行版报告此项目。**1** 个 ✅ 已是最新上游版本，**5** 个 ⚠️ 使用旧版本。
 
 | 发行版 | 版本 | 状态 |
 |--------|------|------|
-| Homebrew | `0.11.0` | ✅ latest |
-| Nix unstable | `0.11.0` | ✅ latest |
+| Homebrew | `0.12.0` | ✅ latest |
+| Nix unstable | `0.11.0` | ⚠️ outdated |
 
 ## 改进这些数据
 
@@ -71,4 +90,4 @@ termsvg 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261108.yml` · 2026-11-08T06:59:50Z._
+_数据快照: `data/card/261110.yml` · 2026-11-10T08:35:07Z._
