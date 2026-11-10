@@ -1,7 +1,7 @@
 - repo: homebrew
   srcname: termsvg
   visiblename: termsvg
-  version: 0.11.0
+  version: 0.12.0
   origversion: null
   status: newest
   summary: Record, share and export your terminal as a animated SVG image
@@ -61,7 +61,7 @@
   visiblename: termsvg
   version: 0.11.0
   origversion: null
-  status: newest
+  status: outdated
   summary: Record, share and export your terminal as a animated SVG image
   maintainers:
     - pbsds@hotmail.com
