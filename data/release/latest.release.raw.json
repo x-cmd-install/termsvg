@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 1199,
       "digest": "sha256:34f2e85424cf3015e26e51d443554b607ae28e64f02d3f58ce57ecfeeccdd19e",
-      "download_count": 3,
+      "download_count": 5,
       "created_at": "2026-11-09T23:28:46Z",
       "updated_at": "2026-11-09T23:28:47Z",
       "browser_download_url": "https://github.com/MrMarble/termsvg/releases/download/v0.13.0/termsvg-0.13.0-checksums.txt"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 3554650,
       "digest": "sha256:1003ace7d7b0cb844d370610ebafdad9f476c147c6f29bc75933efa131f170bb",
-      "download_count": 3,
+      "download_count": 4,
       "created_at": "2026-11-09T23:28:43Z",
       "updated_at": "2026-11-09T23:28:44Z",
       "browser_download_url": "https://github.com/MrMarble/termsvg/releases/download/v0.13.0/termsvg-0.13.0-darwin-arm64.zip"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 3698302,
       "digest": "sha256:712e0736c3fb495e7c363af799b2e3f9c65c84c8bbf265b7cf80817176f74464",
-      "download_count": 5,
+      "download_count": 6,
       "created_at": "2026-11-09T23:28:45Z",
       "updated_at": "2026-11-09T23:28:46Z",
       "browser_download_url": "https://github.com/MrMarble/termsvg/releases/download/v0.13.0/termsvg-0.13.0-linux-amd64.tar.gz"
