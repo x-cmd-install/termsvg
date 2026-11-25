@@ -47,12 +47,12 @@ Total: **23,114** lines of code across **147** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 2 | 20 | 0 | 0 | 0 | 24 |
-| last60d | 2026-09-25 | 2 | 20 | 0 | 0 | 0 | 24 |
-| 90d | 2026-08-26 | 2 | 20 | 0 | 0 | 0 | 24 |
-| last180d | 2026-05-28 | 3 | 21 | 0 | 1 | 0 | 26 |
-| 360d | 2025-11-29 | 3 | 22 | 0 | 3 | 0 | 60 |
-| last720d | 2024-12-04 | 6 | 27 | 0 | 6 | 0 | 67 |
+| 30d | 2026-10-26 | 2 | 20 | 0 | 0 | 0 | 24 |
+| last60d | 2026-09-26 | 2 | 20 | 0 | 0 | 0 | 24 |
+| 90d | 2026-08-27 | 2 | 20 | 0 | 0 | 0 | 24 |
+| last180d | 2026-05-29 | 3 | 21 | 0 | 1 | 0 | 26 |
+| 360d | 2025-11-30 | 3 | 22 | 0 | 3 | 0 | 60 |
+| last720d | 2024-12-05 | 6 | 27 | 0 | 6 | 0 | 67 |
 
 ## Release assets
 
@@ -72,15 +72,6 @@ Total: **23,114** lines of code across **147** files in the top 5 languages.
 | [termsvg-0.13.0-linux-armv7.tar.gz](https://github.com/MrMarble/termsvg/releases/download/v0.13.0/termsvg-0.13.0-linux-armv7.tar.gz) | 3.4 MiB | `native/linux/arm` |
 | [termsvg-0.13.0-windows-amd64.zip](https://github.com/MrMarble/termsvg/releases/download/v0.13.0/termsvg-0.13.0-windows-amd64.zip) | 3.6 MiB | `native/win/x64` |
 
-## Distribution status
-
-Reported by **7** distros on [repology.org](https://repology.org/project/termsvg). **1** are ✅ on the latest upstream release, **5** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Homebrew | `0.13.0` | ✅ latest |
-| Nix unstable | `0.11.0` | ⚠️ outdated |
-
 ## Improve this data
 
 Install metadata for termsvg lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `termsvg` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -90,4 +81,4 @@ Install metadata for termsvg lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261124.yml` · 2026-11-24T10:49:18Z._
+_Snapshot: `data/card/261125.yml` · 2026-11-25T09:35:05Z._
