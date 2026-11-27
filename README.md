@@ -47,12 +47,12 @@ Total: **23,114** lines of code across **147** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-27 | 2 | 20 | 0 | 0 | 0 | 24 |
-| last60d | 2026-09-27 | 2 | 20 | 0 | 0 | 0 | 24 |
-| 90d | 2026-08-28 | 2 | 20 | 0 | 0 | 0 | 24 |
-| last180d | 2026-05-30 | 3 | 21 | 0 | 1 | 0 | 26 |
-| 360d | 2025-12-01 | 3 | 22 | 0 | 3 | 0 | 60 |
-| last720d | 2024-12-06 | 6 | 27 | 0 | 6 | 0 | 67 |
+| 30d | 2026-10-28 | 2 | 20 | 0 | 0 | 0 | 24 |
+| last60d | 2026-09-28 | 2 | 20 | 0 | 0 | 0 | 24 |
+| 90d | 2026-08-29 | 2 | 20 | 0 | 0 | 0 | 24 |
+| last180d | 2026-05-31 | 3 | 21 | 0 | 1 | 0 | 26 |
+| 360d | 2025-12-02 | 3 | 22 | 0 | 3 | 0 | 60 |
+| last720d | 2024-12-07 | 6 | 27 | 0 | 6 | 0 | 67 |
 
 ## Release assets
 
@@ -81,4 +81,4 @@ Install metadata for termsvg lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261126.yml` · 2026-11-26T08:58:25Z._
+_Snapshot: `data/card/261127.yml` · 2026-11-27T10:37:55Z._
